@@ -13,7 +13,11 @@ The BBC England Data Unit sent Freedom of Information requests to all local coun
 ## Interviews and quotes
 
 * Michael Bray, pornographic magazine and DVD shop owner of 16 years, Huddersfield
+* Catherine Mayer, co-founder of the Women's Equality Party
 
 ## Visualisation
 
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/9F28/production/_100044704_chart-sex_establishments_core_cities_130218-7fzmj-nc.png)
+
 * Bar chart: Decline in sex establishment licences in England
+* Bar chart: Fall in active sex establishment licences in major cities: England, percentage change 2013-2018
