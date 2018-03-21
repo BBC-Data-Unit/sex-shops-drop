@@ -9,6 +9,7 @@ The BBC England Data Unit sent Freedom of Information requests to all local coun
 ## Get the data
 
 * YouGov: [survey on attitudes to strip clubs](https://yougov.co.uk/news/2015/06/30/strip-club-stag-do/)
+* Spreadsheet: [Number of sex establishments with active licence and Number of new applications for sex establishment licence 2011-2018, by local authority](https://github.com/BBC-Data-Unit/sex-shops-drop/raw/master/Sex%20Establishment%20Github.xlsx)
 
 ## Interviews and quotes
 
