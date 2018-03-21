@@ -22,3 +22,7 @@ The BBC England Data Unit sent Freedom of Information requests to all local coun
 
 * Bar chart: Decline in sex establishment licences in England
 * Bar chart: Fall in active sex establishment licences in major cities: England, percentage change 2013-2018
+
+## Other background
+
+* Thet [text of the FOI request sent to all local authorities can be found here](https://github.com/BBC-Data-Unit/sex-shops-drop/blob/master/foirequest.md)
